@@ -3,7 +3,7 @@
 Coin Vista is a powerful web application that provides interactive line charts for various cryptocurrencies, enabling users to visualize and analyze historical price data. This tool empowers users to identify trends and patterns, ultimately making informed predictions about future cryptocurrency price movements.
 
 
-Live Project: [[https://coin-vista2.vercel.app/](https://coin-vista2.vercel.app/)
+Live Project: [[https://coin-vista2.vercel.app/](https://coin-vista2.vercel.app/)]
 
 ## Features
 
@@ -21,8 +21,8 @@ Live Project: [[https://coin-vista2.vercel.app/](https://coin-vista2.vercel.app/
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/crypto-price-insights.git`
-2. Navigate to the project directory: `cd crypto-price-insights`
+1. Clone the repository: `git clone https://github.com/priyank59/Coin_Vista.git`
+2. Navigate to the project directory: `cd Coin_Vista`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
