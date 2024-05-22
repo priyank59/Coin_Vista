@@ -2,7 +2,7 @@
 A rough clone of the data.chain.link website in a dark theme; Lacked access to a few API's, therefore this is built with only the Coingecko API.
 
 ## Running
-* Go to https://chainlinkfeedclone.netlify.app/
+* Go to https://coin-vista2.vercel.app/
 ### Or
 * ```git clone```
 * cd into the project directory
